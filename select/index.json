@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "This December",
   "base_artist": "Ricky Montgomery",
-  "createdAt": "2026-04-01T04:35:11.784479Z",
+  "createdAt": "2026-04-01T12:32:13.084567Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -139,6 +139,15 @@
       "artist": "Ricky Montgomery",
       "has_synced": true,
       "path": "select/17_This_December_Ricky_Montgomery.lrc"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "This December",
+      "artist": "Ricky Montgomery",
+      "has_synced": true,
+      "path": "select/localdb_01_This_December_Ricky_Montgomery.lrc",
+      "repo_name": "gzxk4KepBOc"
     }
   ]
 }
