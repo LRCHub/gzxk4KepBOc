@@ -1,0 +1,47 @@
+# Ricky Montgomery – This December
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.47] Only in my darkest moments can I see the light
+[00:06.55] I think I'm prone to getting blinded when it's bright
+[00:13.83] Well, this December, I'll remember
+[00:17.95] Want you to see it when I do, ooh-ooh-ooh
+[00:22.03] God knows I do
+[00:28.03] Only in my darkest moments can I see the light
+[00:34.03] I think I'm prone to getting blinded when it's bright
+[00:41.27] Oh well, this December, I'll remember
+[00:45.39] Want you to see it when I do, ooh-ooh-ooh
+[00:49.52] God knows I do
+[00:54.39] I'm alright if you're alright
+[00:57.88] And I'm okay if you're okay
+[01:01.42] It's this state, in this state I'm living in
+[01:05.99] It's just a little bit, it's just a little bit
+[01:09.02] Lonely in this home
+[01:11.35] It's always colder on your own
+[01:14.74] My darlin', I
+[01:17.11] I let the season change my mind
+[01:22.47] Hey
+[01:36.59] Only in my darkest moments
+[01:40.27] I wanna see you with your head wide open
+[01:43.44] Empty in the ground, gone without a sound
+[01:46.03] Just another white elm growing at the end of town
+[01:49.72] Well, this December, I'll remember
+[01:53.83] Want you to see it when I do, ooh-ooh-ooh
+[01:58.07] God knows I do
+[02:03.03] Well, I'm alright if you're alright
+[02:06.38] And I'm okay if you're okay
+[02:09.88] It's this state, in this state I'm living in
+[02:14.51] It's just a little bit, it's just a little bit
+[02:17.74] Lonely in this home
+[02:20.07] It's always colder on your own
+[02:23.31] My darlin', I
+[02:25.62] I let the season change my mind
+[02:31.02] I'm alright if you're alright
+[02:33.74] I'm okay if you're okay
+[02:37.26] It's this state, in this state I'm living in
+[02:41.90] It's just a little bit, it's just a bit
+[02:44.87] Maybe, this December, I'll remember
+[02:48.71] Want you to see it when I do, ooh-ooh-ooh
+[02:52.95] God knows I do
+```
