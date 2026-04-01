@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "This December",
+  "base_artist": "Ricky Montgomery",
+  "createdAt": "2026-04-01T04:35:11.784479Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "This December",
+      "artist": "Ricky Montgomery",
+      "has_synced": true,
+      "path": "select/01_This_December_Ricky_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "This December (slow)",
+      "artist": "Ricky Montgomery",
+      "has_synced": false,
+      "path": "select/02_This_December_(slow)_Ricky_Montgomery.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "This December",
+      "artist": "Ricky Montgomery",
+      "has_synced": true,
+      "path": "select/03_This_December_Ricky_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "This December (slow)",
+      "artist": "Ricky Montgomery",
+      "has_synced": true,
+      "path": "select/04_This_December_(slow)_Ricky_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "This December - holiday version",
+      "artist": "Ricky Montgomery",
+      "has_synced": true,
+      "path": "select/05_This_December_-_holiday_version_Ricky_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "This December (slow)",
+      "artist": "Ricky Montgomery",
+      "has_synced": true,
+      "path": "select/06_This_December_(slow)_Ricky_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ricky Montgomery - This December (Audio Only)",
+      "artist": "Ricky Montgomery",
+      "has_synced": true,
+      "path": "select/07_Ricky_Montgomery_-_This_December_(Audio_Only)_Ricky_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "This December",
+      "artist": "Ricky Montgomery",
+      "has_synced": true,
+      "path": "select/08_This_December_Ricky_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "This December",
+      "artist": "Ricky Montgomery",
+      "has_synced": true,
+      "path": "select/09_This_December_Ricky_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "This December - holiday version",
+      "artist": "Ricky Montgomery",
+      "has_synced": true,
+      "path": "select/10_This_December_-_holiday_version_Ricky_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "This December",
+      "artist": "Ricky Montgomery",
+      "has_synced": true,
+      "path": "select/11_This_December_Ricky_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "This December (holiday version) [with Noah Floersch]",
+      "artist": "Ricky Montgomery",
+      "has_synced": true,
+      "path": "select/12_This_December_(holiday_version)_[with_Noah_Floersch]_Ricky_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "This December",
+      "artist": "Ricky Montgomery",
+      "has_synced": true,
+      "path": "select/13_This_December_Ricky_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "This December (holiday version) [with Noah Floersch] (feat. Noah Floersch)",
+      "artist": "Ricky Montgomery",
+      "has_synced": true,
+      "path": "select/14_This_December_(holiday_version)_[with_Noah_Floersch]_(feat._Noah_Floersch)_Ricky_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "This December - sped up",
+      "artist": "Ricky Montgomery",
+      "has_synced": false,
+      "path": "select/15_This_December_-_sped_up_Ricky_Montgomery.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "This December (sped up)",
+      "artist": "Ricky Montgomery",
+      "has_synced": false,
+      "path": "select/16_This_December_(sped_up)_Ricky_Montgomery.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "This December",
+      "artist": "Ricky Montgomery",
+      "has_synced": true,
+      "path": "select/17_This_December_Ricky_Montgomery.lrc"
+    }
+  ]
+}
